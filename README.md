@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hej12
+- 👀 I’m interested in java script, unity and python
+- 🌱 I’m currently learning unity and python
+- 💞️ I’m looking to collaborate on a bunch of different projects
+- 📫 How to reach me just email me oskar.bjerg@gmail.com
